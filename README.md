@@ -18,10 +18,10 @@
 ### 使用说明
 
 #### 1.下载
-点击此按钮-->[VolunteerManagerDownload](https://github.com/ShadowLastBox/VolunteerManager/releases)<--下载最新版本中名为 "VolunteerManager_vX.X.X.exe" 的文件。
+- 点击此按钮-->[VolunteerManagerDownload](https://github.com/ShadowLastBox/VolunteerManager/releases)<--下载最新版本中名为 "VolunteerManager_vX.X.X.exe" 的文件。
 
 #### 2. 启动程序
-运行文件，启动志愿者项目管理系统。
+- 运行文件，启动志愿者项目管理系统。
 
 #### 3. 创建新项目文件
 - 点击“切换/新建文件”按钮。
